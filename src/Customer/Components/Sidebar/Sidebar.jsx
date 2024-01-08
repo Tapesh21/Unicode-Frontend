@@ -54,10 +54,11 @@ const Sidebar = ({setshowsidebar}) => {
                        </NavLink>
                    ))
                }
+              
 
 
         </div>
-
+{/*<HomePage/>*/}
       
     </div>
   )
